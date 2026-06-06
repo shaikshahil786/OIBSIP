@@ -103,7 +103,7 @@ This project has not only equipped us with valuable data science skills but has 
 
 ## Author
 
-- [Shaik Shahil]
+- Shaik Shahil
 
 ---
 
